@@ -1,0 +1,5 @@
+﻿  main.c
+D:\Code\C++\FPT\Samp\Samp\main.c(16,12): warning C4047: '=': 'uint8_t **' differs in levels of indirection from 'uint8_t *'
+D:\Code\C++\FPT\Samp\Samp\main.c(23,25): warning C4047: 'function': 'uint8_t **' differs in levels of indirection from 'uint8_t *'
+D:\Code\C++\FPT\Samp\Samp\main.c(23,25): warning C4024: 'allocate10Bytes': different types for formal and actual parameter 1
+  Samp.vcxproj -> D:\Code\C++\FPT\Samp\x64\Debug\Samp.exe
